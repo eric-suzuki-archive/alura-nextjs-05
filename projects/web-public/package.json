@@ -12,12 +12,12 @@
     "@alura/design-system": "*",
     "@alura/utils": "*",
     "next": "^12.1.5",
-    "next-compose-plugins": "2.2.1",
-    "next-transpile-modules": "9.0.0",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "next-compose-plugins": "2.2.1",
+    "next-transpile-modules": "9.0.0"
   },
   "devDependencies": {
-    "next-compose-plugins": "^2.2.1"
+    "@alura/tsconfig-commons": "*"
   }
 }
